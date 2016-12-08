@@ -17,7 +17,7 @@ namespace TestKontrolek
             InitializeComponent();          //została dodana zmiana
         }
 
-        private void obrocStrzalki(object sender, EventArgs e)          //aaa
+        private void obrocStrzalki(object sender, EventArgs e)          //obroc strzałki 
         {
             switch (blockArrow1.Direction)
             {
