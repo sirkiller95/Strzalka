@@ -5,8 +5,6 @@
 using namespace System;
 using namespace System::Windows::Forms;
 using namespace System::Drawing;
-using namespace System::ComponentModel;
-
 namespace Arrow {							//tutaj jest komentarz
 
 	public ref class BlockArrow : public Control 
@@ -16,7 +14,7 @@ namespace Arrow {							//tutaj jest komentarz
 		ArrowDirection direction;
 		int thick;
 
-	public:
+	public:asdasd
 		BlockArrow()
 		{
 			Size = System::Drawing::Size(128,1<<7);
