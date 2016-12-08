@@ -14,7 +14,7 @@ namespace TestKontrolek
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();          //została dodana zmiana
         }
 
         private void obrocStrzalki(object sender, EventArgs e)
