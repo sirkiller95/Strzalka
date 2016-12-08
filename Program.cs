@@ -18,7 +18,7 @@ namespace TestKontrolek             //test kontrolek
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             
-            Application.EnableVisualStyles();
+            Application.EnableVisualStyles();                               //zmiana w kodzie
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             
