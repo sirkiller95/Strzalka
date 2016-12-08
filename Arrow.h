@@ -7,7 +7,7 @@ using namespace System::Windows::Forms;
 using namespace System::Drawing;
 using namespace System::ComponentModel;
 
-namespace Arrow {
+namespace Arrow {							//tutaj jest komentarz
 
 	public ref class BlockArrow : public Control 
 	{
@@ -49,7 +49,7 @@ namespace Arrow {
 			}
 		}
 
-	protected:
+	protected:								//został dodany komentarz
 		virtual void OnPaint(PaintEventArgs ^e) override
 		{
 			int l = ClientRectangle.Left;
