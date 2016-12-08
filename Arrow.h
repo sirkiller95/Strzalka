@@ -14,7 +14,7 @@ namespace Arrow {							//tutaj jest komentarz
 		ArrowDirection direction;
 		int thick;
 
-	public:asdasd
+	public:asdasdaasda
 		BlockArrow()
 		{
 			Size = System::Drawing::Size(128,1<<7);
